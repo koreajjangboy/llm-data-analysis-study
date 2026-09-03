@@ -396,7 +396,7 @@ Chapter 02~03에서는 앞서 세팅한 DATA_DIR 환경을 활용해 실제로 4
 ### 최종 파일 URL
 
 ```text
-https://github.com/<내-GitHub-ID>/llm-data-analysis-study/blob/main/chapter01/chapter01.md
+https://github.com/koreajjangboy/llm-data-analysis-study/blob/d0827fac50d8c9bbdc7273b8d3f46ab8dbf3c0e6/chapter01/chpater01.md
 ```
 
 ---
@@ -405,17 +405,17 @@ https://github.com/<내-GitHub-ID>/llm-data-analysis-study/blob/main/chapter01/c
 
 ### 수행 상태
 
-- [ ] COMPLETE
+- [x] COMPLETE
 - [ ] PARTIAL
 
 ### 내가 가장 중요하게 내린 판단 1개
 
 ```text
-여기에 작성하세요.
+LLM의 제안을 맹신하지 않고, 실제 데이터의 상태와 정합성을 비판적으로 검토하는 프롬프트 로그(Prompt Log) 작성과 검증 프로세스의 중요성을 이해했습니다.
 ```
 
 ### 아직 확인이 필요한 내용 1개
 
 ```text
-여기에 작성하세요.
+-
 ```
